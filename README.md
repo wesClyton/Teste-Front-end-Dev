@@ -5,7 +5,7 @@ Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end p
 
 ### Briefing
 
-Você deve criar um WebApp que deve conter uma sidebar, com duas sessões que levarão o usuário á duas páginas, uma que exibe um formulário com os campos abaixo, e outra que liste os dados cadastrados.
+Você deve criar um WebApp que deve conter uma sidebar, com duas sessões, que levarão o usuário á duas páginas, uma que exibe um formulário com os campos abaixo, e outra que liste os dados cadastrados.
 
 * Nome completo
 * CPF
@@ -15,7 +15,7 @@ Você deve criar um WebApp que deve conter uma sidebar, com duas sessões que le
 ### Pré-requisitos: 
  - Deve ser possível fazer o C.R.U.D dos dados. (criar, listar, excluir e editar os dados cadastrados pelo formulário);
  - Utilize Vue.js;
- - Utilize o framework que desejar (Bootstrap, Tailwind, Element, Vuetify, etc...);
+ - Utilize o framework que desejar para a contrução da interface (Bootstrap, Tailwind, Element, Vuetify, etc...);
  - Fazer a persistência dos dados no `localStorage`, `IndexedDB` ou `Aquivos JSON`(Nossa preferencia);
  - Uso de controle de versão;
 
@@ -27,12 +27,14 @@ Você deve criar um WebApp que deve conter uma sidebar, com duas sessões que le
  - Organização do projeto;
  - A página ser responsiva;
  - Validação do Form (Escolha os campos que achar apropriado serem obrigatórios);
+ 
 
 ### Plus:
  - Automação de tasks com gulp, grunt ou outra ferramenta de sua escolha;
  - Testes unitários;
  - Aplicação de animações em css quando possível;
  - Ver o código rodando live;
+ - Adicionar um upload de imagem no form e salvar em base64 e apresentar na pagina de listagem;
 
 ## Processo de Submissão
 
