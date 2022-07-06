@@ -39,7 +39,7 @@ Você deve criar um WebApp que deve conter uma sidebar, com duas sessões, que l
 ## Processo de Submissão
 
 O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
-Enviar o link para: weslley@grupoallo.com<br />
+Enviar o link para: wes.hinsch@gmail.com<br />
 
 Boa sorte a todos e<br />
 Bom trabalho!!
